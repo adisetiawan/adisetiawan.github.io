@@ -6,10 +6,10 @@ theme = "hyde-hyde"
 
 ## Site Settings
 [params]
-    author = "Author"
-    title = "Title"
-    # description = "..."
-    authorimage = "/img/hugo.png"
+    author = "Adi Setiawan"
+    title = "Adi's blog"
+    description = "Random stuff"
+    authorimage = "/img/adi.jpg"
     dateformat = "2 Jan, 2006"
 
     # sidebar, copyright & license
@@ -39,11 +39,11 @@ theme = "hyde-hyde"
     twitter = "adisetiawan"
     # orcid = "<xxxx-xxxx-xxxx-xxxx>"
     email = "adisetiawan@gmail.com"
-    gravatar = "adisetiawan@gmail.com"
+    #gravatar = "adisetiawan@gmail.com"
 
 ## Main Menu
 [[menu.main]]
-    name = "Posts"
+    name = "Blogs"
     weight = 100
     identifier = "posts"
     url = "/posts/"
