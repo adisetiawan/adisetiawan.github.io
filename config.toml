@@ -35,7 +35,7 @@ theme = "hyde-hyde"
 ## Social Accounts
 [params.social]
     github = "adisetiawan"
-    linkedin = "adisetiawan"
+    #linkedin = "adisetiawan"
     twitter = "adisetiawan"
     # orcid = "<xxxx-xxxx-xxxx-xxxx>"
     email = "adisetiawan@gmail.com"
@@ -48,7 +48,22 @@ theme = "hyde-hyde"
     identifier = "posts"
     url = "/posts/"
 [[menu.main]]
+    name = "Projects"
+    identifier = "project"
+    weight = 300
+    url = "/project/"
+[[menu.main]]
     name = "About"
     identifier = "about"
     weight = 300
     url = "/about/"
+[[menu.main]]
+    name = "Buy me a coffee"
+    identifier = "buy-me-cofee"
+    weight = 400
+    url = "https://www.buymeacoffee.com/adisetiawan"
+[[menu.main]]
+    name = "Dukung saya"
+    identifier = "dukung-saya"
+    weight = 400
+    url = "https://saweria.co/adisetiawan"
