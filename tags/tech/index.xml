@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tech on Adi&#39;s Blog</title>
+    <link>https://adisetiawan.github.io/tags/tech/</link>
+    <description>Recent content in tech on Adi&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://adisetiawan.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mobile Only Services</title>
+      <link>https://adisetiawan.github.io/posts/mobile-only-services/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adisetiawan.github.io/posts/mobile-only-services/</guid>
+      <description>&lt;p&gt;Some my not agree, take it with a grain of salt but I do agree that next big things would be mobile-only services.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
