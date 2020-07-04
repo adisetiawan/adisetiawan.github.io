@@ -9,7 +9,7 @@ theme = "hyde-hyde"
     author = "Adi Setiawan"
     title = "Adi's blog"
     description = "Random stuff"
-    authorimage = "/img/adi.jpg"
+    authorimage = "/img/linux-tug.png"
     dateformat = "2 Jan, 2006"
 
     # sidebar, copyright & license
