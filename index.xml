@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Adi Setiawan Blog</title>
+    <title>Adi Setiawan</title>
     <link>https://adisetiawan.github.io/</link>
-    <description>Recent content on Adi Setiawan Blog</description>
+    <description>Recent content on Adi Setiawan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
@@ -50,7 +50,8 @@
       <guid>https://adisetiawan.github.io/project/</guid>
       <description>InaCode Indonesia  Our mission is to help Indonesian to learn programming and computer science without any prior knowledge. We&amp;rsquo;re creating videos, tutorial and interactive lessons in Bahasa Indonesia which is available for free.
  Unchain - coming soon  Resources for blockchain developer with in-depth tutorial and blockchain developer news
- </description>
+ Open source stuff Pandoc mdbook template template to generate ebook and online doc from markdown files
+ Support my work by buy me a coffee or dukung saya</description>
     </item>
     
     <item>
